@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Room Partner</title>
-    <!-- RoomMate Finder -->
-    <link rel="stylesheet" href="./styles.css">
-    <link rel="shortcut icon" href="./favicon.png" type="image/png">
-</head>
-<body>
-    <nav>
-        <ul>
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="./blog.html">Blogs</a></li>
-            <li><a href="./career.html">Career</a></li>
-            <li><a href="./Login-Signup/loginSignup.html">Login/Signup</a><li></li>
-            <li><a href="./profile.html">Profile</a></li> 
-        </ul>
-    </nav>
-    <header>
-        <h1>Welcome to Find Your Ideal Room Partner</h1>
-        <p>Your journey to finding the perfect room partner starts here!</p>
-    </header>
-    <main>
-        <section>
-            <h2>Discover Your Match</h2>
-            <p>Sign up now to connect with potential room partners in your area.</p>
-            <a href="./Login-Signup/loginSignup.html" class="cta-button">Get Started</a>
-        </section>
-        <section class="profiles">
-            <h2>Featured Profiles</h2>
-            <div class="profile">
+{<div class="profile">
                 <img src="./1.png" alt="John Doe">
                 <h3>Suhana</h3>
                 <p>Data Analyst</p>
@@ -40,6 +8,7 @@
                 <p class="phone-number">Phone: +91 91256*****</p>
                 <button class="see-profile-button">See Profile</button>
             </div>
+}
             <div class="profile">
                 <img src="./5.png" alt="John Doe">
                 <h3>Bishnu</h3>
@@ -110,11 +79,3 @@
                 <p class="phone-number">Phone: +91 78456*****</p>
                 <button class="see-profile-button">See Profile</button>
             </div>
-        </section>
-    </main>
-    <footer>
-        <p>Room Partner &copy; 2025. All rights reserved.</p>
-    </footer>
-    <!-- <script src="js/app.js"></script> -->
-</body>
-</html>
