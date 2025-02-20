@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Suhana",
+        "img_url": "./1.png",
+        "job": "Data Analyst",
+        "age": "Age: 23",
+        "gender": "Female",
+        "location": "Location: Bhubaneswar",
+        "phone":"91256*****"
+    },
+    {
+        "name": "Bishnu",
+        "img_url": "./5.png",
+        "job": "Software Engineer",
+        "age": "Age: 25",
+        "gender": "Male",
+        "location": "Location: Pipili",
+        "phone":"79956*****"
+
+    },
+    {
+        "name": "Tushar",
+        "img_url": "./8.jpg",
+        "job": "Jr. Engineer",
+        "age": "Age: 23",
+        "gender": "Male",
+        "location": "Location: Raja Bagicha",
+        "phone":"89898*****"
+    },
+    {
+        "name": "Suhana",
+        "img_url": "./1.png",
+        "job": "Data Analyst",
+        "age": "Age: 23",
+        "gender": "Female",
+        "location": "Location: Bhubaneswar"
+    },
+    {
+       "name": "Suhana",
+        "img_url": "./1.png",
+        "job": "Data Analyst",
+        "age": "Age: 23",
+        "gender": "Female",
+        "location": "Location: Bhubaneswar"
+    },
+    {
+       "name": "Suhana",
+        "img_url": "./1.png",
+        "job": "Data Analyst",
+        "age": "Age: 23",
+        "gender": "Female",
+        "location": "Location: Bhubaneswar"
+    },
+    {
+       "name": "Suhana",
+        "img_url": "./1.png",
+        "job": "Data Analyst",
+        "age": "Age: 23",
+        "gender": "Female",
+        "location": "Location: Bhubaneswar"
+    }
+]
