@@ -26,45 +26,15 @@ find-your-ideal-room-partner
 ├── .gitignore           # Files and directories to ignore in version control
 └── README.md            # Project documentation
 ```
-
 ## Features
-
 - User registration and login functionality
 - Profile creation with user details
 - Search for nearby room partners based on preferences
 - Informative blog section with tips and community stories
 - Career opportunities and application instructions
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd find-your-ideal-room-partner
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-4. Start the development server:
-   ```
-   npm start
-   ```
-
-5. Open your browser and go to `http://localhost:3000` to view the website.
-
 ## Usage
-
 - Users can sign up to create an account and fill out their profile.
 - After signing up, users can log in to access their dashboard and search for potential room partners.
 - Explore the blog for helpful articles and tips on finding the right roommate.
-
 ## Contributing
-
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
